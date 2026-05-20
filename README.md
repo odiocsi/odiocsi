@@ -1,4 +1,4 @@
-**Data Scientist & Full Stack Developer**
+## **Data Scientist & Full Stack Developer**
 
 ### 🛠️ Tech Stack
 
@@ -18,5 +18,3 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----

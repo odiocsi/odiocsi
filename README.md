@@ -18,3 +18,9 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 🔗 Featured Projects
+
+[**Unbound Decks**](https://unbounddecks.app/) - A deck builder website and companion app for the Unmatched board game, allowing users to create and play with their decks. Made with Laravel, Inertia.js, React and Kotlin.
